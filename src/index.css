@@ -1,5 +1,10 @@
-/* === JAKARTA PLATFORM - NABILA AHMAD STUDIO DEVELOPMENT === */
-/* File: src/index.css */
+/* File: src/index.css (Versi Final yang Benar) */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* === Di bawah sini adalah kode CSS custom Anda, biarkan saja === */
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400;600&display=swap');
 
